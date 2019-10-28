@@ -1,0 +1,5 @@
+com\hiral\uniquejson\model\EmployeeRecord.class
+com\hiral\uniquejson\App.class
+com\hiral\uniquejson\model\Leads.class
+com\hiral\uniquejson\model\EmployeeRecordKey.class
+com\hiral\uniquejson\EmployeeRecordParser.class
